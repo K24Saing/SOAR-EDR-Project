@@ -1,1 +1,1 @@
-# Vulnerability-Management-Project
+# SOAR EDR Project
