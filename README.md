@@ -43,6 +43,7 @@ The SOAR EDR project was geared to design an environment for automatic detection
 16. I generated the test event on my Windows 10 Pro VM, confirmed the messages were sent to both Slack and my email, and selected "Yes" on the user prompt page. I then confirmed that the machine was isolated on LimaCharlie.
 ![Screenshot 2024-09-28 230957](https://github.com/user-attachments/assets/6ae97df1-65e7-404a-9352-b103af3fbcf1)
 ![Screenshot 2024-09-28 233355](https://github.com/user-attachments/assets/9dd97f5f-5d83-4c14-9780-6f9137dbdd98)
+![Screenshot 2024-10-01 010115](https://github.com/user-attachments/assets/05c7791b-9d52-4e9f-b907-2485a9674612)
 ![Screenshot 2024-09-30 234211](https://github.com/user-attachments/assets/4bd46a6e-4f0f-4d46-8554-5a941950647c)
 
 
